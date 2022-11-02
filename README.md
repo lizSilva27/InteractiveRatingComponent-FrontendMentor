@@ -18,7 +18,7 @@ Users should be able to:
 ![](./design/viewDesktop__card1.png)
 ![](./design/viewDesktop__card2.png)
 ![](./design/viewMobile__card1.png)
-![](./design/viewMobile__card1.png) 
+![](./design/viewMobile__card2.png) 
 
 ### Links
 
